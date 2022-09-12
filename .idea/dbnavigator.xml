@@ -38,6 +38,9 @@
   <component name="DBNavigator.Project.DatabaseSessionManager">
     <connection id="6612c230-b1a5-42c8-ad05-ae5d66bd8ca6" />
   </component>
+  <component name="DBNavigator.Project.DatasetFilterManager">
+    <filter-actions connection-id="6612c230-b1a5-42c8-ad05-ae5d66bd8ca6" dataset="mydbtest.users" active-filter-id="" />
+  </component>
   <component name="DBNavigator.Project.EditorStateManager">
     <last-used-providers />
   </component>
